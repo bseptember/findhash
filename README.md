@@ -21,7 +21,7 @@ Click the run button in visual studio after opening it.
 ### Executable
 ```bin
 
-..findme\findhash\bin\Debug\net6.0-windows\findhash.exe
+..\findhash\bin\Debug\net6.0-windows\findhash.exe
 
 ```
 
@@ -36,4 +36,4 @@ The output executable will be generated in /app/out
 
 ### Test:
 #### Sample
-![](files/sample.png)
+![](files/sample.PNG)
